@@ -14,7 +14,7 @@
 </p>
 
 <hr/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorolisan&show_icons=true&locale=en&layout=compact" alt="hectorolisan" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorolisan&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="hectorolisan" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hectorolisan&show_icons=true&locale=en&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="hectorolisan" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hectorolisan&" alt="hectorolisan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hectorolisan&show_icons=true&locale=es&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="hectorolisan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hectorolisan&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="hectorolisan" /></p>
