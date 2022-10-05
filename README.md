@@ -23,7 +23,7 @@
 
 <hr/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorolisan&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000" alt="hectorolisan"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorOliSan&theme=dark&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000" alt="hectorolisan"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hectorolisan&show_icons=true&locale=es&line_height=20&title_color=333B4B&hide_title=true&icon_color=333B4B&bg_color=00000000&text_color=FFFFFF" alt="hectorolisan" /></p>
 
