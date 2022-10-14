@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Héctor</h1>
 <h3 align="center">Desarrollador de Aplicaciones Web y Multiplataforma</h3>
-<h4 align="center">Especializandome en Inteligencia Artificial y Big Data</h4>
+<h4 align="center">Especializandome en Inteligencia Artificial y Big Data 🤖</h4>
 
 <br>
 
