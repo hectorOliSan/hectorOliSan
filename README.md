@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Héctor</h1>
-<h3 align="center">Desarrollador de Aplicaciones Multiplataforma</h3>
+<h3 align="center">Desarrollador de Aplicaciones Web y Multiplataforma</h3>
+<h4 align="center>Especializandome en Inteligencia Artificial y Big Data</h4>
 
 <h4 align="center">🌲🧠 Proyecto de Drones Autónomos e Inteligencia Artificial para Mejoras Agrícolas y Medioambientales: <a href="http://hermes-ia.com/" target="_blank" color="333B4B">Hermes IA</a> </h4>
 
