@@ -4,9 +4,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hectorolisan-333B4B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hectorolisan)
+[![linkedin](https://img.shields.io/badge/linkedin-hectorolisan-333B4B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hectorolisan)
 &nbsp;
-[![CodePen](https://img.shields.io/badge/CodePen-hectorOliSan-333B4B?style=for-the-badge&logo=codepen&logoColor=white&labelColor=101010)](https://codepen.io/hectorOliSan)
+[![codepen](https://img.shields.io/badge/codepen-hectorolisan-333B4B?style=for-the-badge&logo=codepen&logoColor=white&labelColor=101010)](https://codepen.io/hectorOliSan)
 
 <br>
 
