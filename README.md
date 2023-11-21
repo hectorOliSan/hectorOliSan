@@ -43,6 +43,8 @@
 &nbsp;
 [![javaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 &nbsp;
+[![chartdotjs](https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=101010)]()
+&nbsp;
 [![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 &nbsp;
 [![angular](https://img.shields.io/badge/angular-E23237?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
@@ -65,13 +67,29 @@
 &nbsp;
 [![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)]()
 &nbsp;
+[![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+&nbsp;
 [![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 &nbsp;
 [![Git](https://img.shields.io/badge/Git-EC2025?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 &nbsp;
 [![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 &nbsp;
+[![neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
+&nbsp;
 [![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![virtualbox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 
 <hr>
 
