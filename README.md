@@ -10,8 +10,10 @@
 
 <br>
 
-> 🏆🏖️📶 Equipo ganador del Datathon 5G Beach Challenge. [IAT Marino-Marítima](https://www.linkedin.com/posts/iatmarinomar%C3%ADtima_datathon5gbeachchallenge-machinelearning-ugcPost-7132321942690234368-qSax), [Publicación](https://www.linkedin.com/posts/hectorolisan_datathon-datathon5g-datathon5gbeachchallenge-activity-7132123083917656064-FX9H)
+> [!IMPORTANT]
+>  🏆🏖️📶 Equipo ganador del Datathon 5G Beach Challenge. [IAT Marino-Marítima](https://www.linkedin.com/posts/iatmarinomar%C3%ADtima_datathon5gbeachchallenge-machinelearning-ugcPost-7132321942690234368-qSax), [Publicación](https://www.linkedin.com/posts/hectorolisan_datathon-datathon5g-datathon5gbeachchallenge-activity-7132123083917656064-FX9H)
 
+> [!NOTE]
 > 🌲🚁🧠 Proyecto de Drones Autónomos e Inteligencia Artificial para Mejoras Agrícolas y Medioambientales: [Hermes IA](https://www3.gobiernodecanarias.org/medusa/edublog/ieselrincon/2021/10/29/proyecto-hermesi/)
 
 
