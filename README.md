@@ -54,8 +54,8 @@
 
 ---
 
-[![hectorolisan](https://github-readme-stats.vercel.app/api?username=hectorolisan&show_icons=true&locale=es&title_color=333B4B&hide_title=true&icon_color=333B4B&bg_color=00000000&text_color=FFFFFF&card_width=450)]()
-[![hectorolisan](https://github-readme-stats.vercel.app/api/top-langs?username=hectorOliSan&theme=dark&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000&card_width=400)]()
-[![hectorolisan](https://github-readme-streak-stats.herokuapp.com?user=hectorolisan&locale=es&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&fire=333B4B&ring=333B4B&currStreakLabel=333B4B&card_width=1000)]()
+[![hectorolisan](https://github-readme-stats.vercel.app/api?username=hectorolisan&show_icons=true&locale=es&title_color=333B4B&hide_title=true&icon_color=333B4B&bg_color=00000000&text_color=FFFFFF&card_width=420)]()
+[![hectorolisan](https://github-readme-stats.vercel.app/api/top-langs?username=hectorOliSan&theme=dark&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000&card_width=420)]()
+[![hectorolisan](https://github-readme-streak-stats.herokuapp.com?user=hectorolisan&locale=es&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&fire=333B4B&ring=333B4B&currStreakLabel=333B4B&card_width=900)]()
 
 ---
