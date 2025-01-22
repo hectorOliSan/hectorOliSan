@@ -9,10 +9,10 @@
 [![codepen](https://img.shields.io/badge/codepen-hectorolisan-333B4B?style=for-the-badge&logo=codepen&logoColor=white&labelColor=101010)](https://codepen.io/hectorOliSan)
 
 > [!IMPORTANT]
->  🏆🏖️📶 Equipo ganador del Datathon 5G Beach Challenge. [IAT Marino-Marítima](https://www.linkedin.com/posts/iatmarinomar%C3%ADtima_datathon5gbeachchallenge-machinelearning-ugcPost-7132321942690234368-qSax), [Publicación](https://www.linkedin.com/posts/hectorolisan_datathon-datathon5g-datathon5gbeachchallenge-activity-7132123083917656064-FX9H)
+>  🏆 🏖️ 📶 Equipo ganador del Datathon 5G Beach Challenge. [IAT Marino-Marítima](https://www.linkedin.com/posts/iatmarinomar%C3%ADtima_datathon5gbeachchallenge-machinelearning-ugcPost-7132321942690234368-qSax), [Publicación](https://www.linkedin.com/posts/hectorolisan_datathon-datathon5g-datathon5gbeachchallenge-activity-7132123083917656064-FX9H)
 
 > [!NOTE]
-> 🌲🚁🧠 Proyecto de Drones Autónomos e Inteligencia Artificial para Mejoras Agrícolas y Medioambientales: [Hermes IA](https://www3.gobiernodecanarias.org/medusa/edublog/ieselrincon/2021/10/29/proyecto-hermesi/)
+> 🌲 🚁 🧠 Proyecto de Drones Autónomos e Inteligencia Artificial para Mejoras Agrícolas y Medioambientales: [Hermes IA](https://www3.gobiernodecanarias.org/medusa/edublog/ieselrincon/2021/10/29/proyecto-hermesi/)
 
 ---
 
@@ -68,6 +68,7 @@
 
 [![hectorolisan](https://github-readme-stats.vercel.app/api?username=hectorolisan&show_icons=true&locale=es&title_color=333B4B&hide_title=true&icon_color=333B4B&bg_color=00000000&text_color=FFFFFF&card_width=560)]()
 [![hectorolisan](https://github-readme-stats.vercel.app/api/top-langs?username=hectorOliSan&theme=dark&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000&card_width=200)]()
-[![hectorolisan](https://github-readme-streak-stats.herokuapp.com?user=hectorolisan&locale=es&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&fire=333B4B&ring=333B4B&currStreakLabel=333B4B&card_width=842)]()
+
+<!--[![hectorolisan](https://github-readme-streak-stats.herokuapp.com?user=hectorolisan&locale=es&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&fire=333B4B&ring=333B4B&currStreakLabel=333B4B&card_width=842)]()-->
 
 ---
