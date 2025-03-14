@@ -1,6 +1,6 @@
 [![snake](https://raw.githubusercontent.com/hectorOliSan/hectorOliSan/output/snake.svg)]()
 
-# Hi 👋, I'm Hector
+# Hi 👋, I'm Héctor
 
 ## Web and Cross-platform Applications Developer 💻 
 
