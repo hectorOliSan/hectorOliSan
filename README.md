@@ -1,6 +1,6 @@
 [![snake](https://raw.githubusercontent.com/hectorOliSan/hectorOliSan/output/snake.svg)]()
 
-# Hi 👋, I'm Héctor
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Héctor
 
 [![linkedin](https://img.shields.io/badge/linkedin-hectorolisan-333B4B?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/hectorolisan)
 &nbsp;
