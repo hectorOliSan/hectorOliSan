@@ -1,6 +1,21 @@
 <div align="center">
-  
-[![snake](https://raw.githubusercontent.com/hectorOliSan/hectorOliSan/output/snake.svg)]()
+
+[![snake](./src/assets/snake.svg)]()
+
+<table>
+<td valign="middle" width="288">
+
+[![ASCII portrait](./src/assets/avi-ascii.svg)]()
+
+</td>
+<td valign="middle" width="500">
+
+[![Info card](./src/assets/info-card.svg)]()
+
+</td>
+
+</tr>
+</table>
 
 ## Héctor Olivares Sánchez
 
@@ -11,6 +26,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hectorolisan-000000?style=for-the-badge "Ir a LinkedIn")](https://www.linkedin.com/in/hectorolisan/)
 &nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen-hectorOliSan-000000?style=for-the-badge "Ir a Codepen")](https://codepen.io/hectorOliSan/)
+
+[![Contributions](./src/assets/contrib-heatmap.svg)]()
 
 [![hectorolisan](https://github-stats-extended.vercel.app/api?username=hectorolisan&hide_title=true&ring_color=333B4B&show_icons=true&icon_color=333B4B&text_color=FFFFFF&bg_color=0D1117&card_width=500)]()
 
