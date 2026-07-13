@@ -3,7 +3,7 @@
 [![snake](./src/assets/snake.svg)]()
 
 <table>
-<td valign="middle" width="288">
+<td valign="middle" width="388">
 
 [![ASCII portrait](./src/assets/avi-ascii.svg)]()
 
