@@ -8,7 +8,7 @@
 [![ASCII portrait](./src/assets/avi-ascii.svg)]()
 
 </td>
-<td valign="middle" width="500">
+<td valign="middle">
 
 [![Info card](./src/assets/info-card.svg)]()
 
