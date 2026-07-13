@@ -1,4 +1,4 @@
-name: Update profile art
+name: Update contribution graph
 
 # Re-scrapes the public contribution graph and re-renders contrib-heatmap.svg
 # every day. No PAT / no secrets: the scraper hits GitHub's public endpoint and
@@ -7,16 +7,12 @@ name: Update profile art
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "30 */12 * * *"
 
   workflow_dispatch:
 
 permissions:
   contents: write
-
-concurrency:
-  group: update-profile-art
-  cancel-in-progress: false
 
 jobs:
   update:
