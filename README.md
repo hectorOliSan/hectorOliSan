@@ -3,12 +3,12 @@
 [![snake](./src/assets/snake.svg)]()
 
 <table>
-<td valign="middle" width="388">
+<td valign="middle" width="288">
 
 [![ASCII portrait](./src/assets/avi-ascii.svg)]()
 
 </td>
-<td valign="middle">
+<td valign="middle" width="500">
 
 [![Info card](./src/assets/info-card.svg)]()
 
