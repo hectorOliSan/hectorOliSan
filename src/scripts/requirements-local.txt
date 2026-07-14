@@ -1,0 +1,8 @@
+# Local-only deps for generating the portrait + info card + first heatmap.
+# Run these scripts on your machine; the daily GitHub Action only needs
+# src/scripts/requirements.txt (requests + bs4).
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime

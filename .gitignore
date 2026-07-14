@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Private / regenerable assets — not tracked
+src/assets/pfp.jpg
+src/assets/source-prepped.png
