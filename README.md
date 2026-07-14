@@ -27,7 +27,9 @@
 &nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen-hectorOliSan-000000?style=for-the-badge "Ir a Codepen")](https://codepen.io/hectorOliSan/)
 
-[![Contributions](./src/assets/contrib-heatmap.svg)]()
+<img width="788" src="./src/assets/contrib-heatmap.svg" alt="Contributions" />
+
+<br />
 
 [![hectorolisan](https://github-stats-extended.vercel.app/api?username=hectorolisan&hide_title=true&ring_color=333B4B&show_icons=true&icon_color=333B4B&text_color=FFFFFF&bg_color=0D1117&card_width=500)]()
 
